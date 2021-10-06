@@ -1,0 +1,4 @@
+Hello this is the text file.
+If you are reading this not from the file itself,
+but rather from the terminal,
+that means you can read this file.
